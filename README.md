@@ -14,12 +14,12 @@
     <li>rock</li>
     </ul>
     <h1>top 5 músicas favoritas</h1>
-    <ul>
+    <ol>
     <li>OneRepublic - I Ain’t Worried</li>
     <li>D4vd - Romantic Homicide</li>
     <li>Twenty one pilots - Heathens</li>
     <li>O-zone - Dragostea din tei</li>
     <li>Jagwar Twin - Happy Face</li>
-    </ul>
+    </ol>
 </body>
 </html>
